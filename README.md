@@ -1,10 +1,12 @@
 ##   Aanmelden
 
-You can use the [editor on GitHub](https://github.com/Piersoncollege/nerdnight/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aanmelden voor NerdNight is verplicht. Je ontvangt bij je aanmelding een toegangsbandje. Voor de examenklassen is er een verplichte aanwezigheid. Voor de niet-examenklassen is de aanwezigheid gewenst. 
+Aanmelden kan met deze link! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+ 
 ### Over Night of the Nerds
+
 ### Programma
 
 
@@ -15,4 +17,8 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Piersoncollege/nerdnight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
+As Kanye West said:
+
+> We're living the future so
+> the present is our past.
 
