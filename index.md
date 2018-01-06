@@ -1,7 +1,7 @@
 ##   Aanmelden
 
 Aanmelden voor NerdNight is verplicht. Je ontvangt bij je aanmelding een toegangsbandje. Voor de examenklassen is er een verplichte aanwezigheid. Voor de niet-examenklassen is de aanwezigheid gewenst.
-Aanmelden kan met deze link! (nog niet actief)
+Aanmelden kan met deze link! (nog niet actief)[Aanmelden}(https://docs.google.com/forms/d/e/1FAIpQLSchIBsbiyadDiAqL9l_Z9jB7G4_oUkQVlPf9D0vaCIBlThoqA/viewform)
 
 
 
