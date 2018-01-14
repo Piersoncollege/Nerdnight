@@ -17,12 +17,7 @@ Naast een mooi programma is er ook alle tijd om te werken aan (examen)projecten.
 ### Programma
 Het programma is nog in ontwikkeling
 
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Piersoncollege/nerdnight/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BEtPCT7ZcE0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 As Kanye West said:
 
