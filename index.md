@@ -1,12 +1,12 @@
 ##   Aanmelden
 
 Aanmelden voor NerdNight is verplicht. Je ontvangt bij je aanmelding een toegangsbandje. Voor de examenklassen is er een verplichte aanwezigheid. Voor de niet-examenklassen is de aanwezigheid gewenst.
-Aanmelden kan met deze link! (nog niet actief)[Aanmelden](https://docs.google.com/forms/d/e/1FAIpQLSchIBsbiyadDiAqL9l_Z9jB7G4_oUkQVlPf9D0vaCIBlThoqA/viewform)
+Hieronder kun je je aanmelden. <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdiD70KaLWSEzUBVWs2q6G3y09rRAwkOLrCZfz5ukQVOhXYBA/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Bezig met laden...</iframe>
 
 
 
 ### Over Night of the Nerds
-Met de introductie van de Rekentoets bleek dat deze een behoorlijke claim legt op de computerlokalen. In plaats van huilend in een hoekje te gaan zitten hebben we van de nood een deugd gemaakt. De lestijd die de leerlingen missen vullen we aan met een avondje 'doorhalen'. Een avond gevuld met workshops, werkruimtes en friet. Dit is de derde editie! De eerste keer was, veel proberen, experimenteren en leren. De tweede keer ging het al een stuk soepeler. Nu met deze vierde editie zijn we echte pro's geworden met de organisatie. We geven leerlingen graag de ruimte te werken aan hun innovatieve ict-projecten.
+Met de introductie van de Rekentoets bleek dat deze een behoorlijke claim legt op de computerlokalen. In plaats van huilend in een hoekje te gaan zitten hebben we van de nood een deugd gemaakt. De lestijd die de leerlingen missen vullen we aan met een avondje 'doorhalen'. Een avond gevuld met workshops, werkruimtes en friet. Dit is de derde editie! De eerste keer was, veel proberen, experimenteren en leren. De tweede keer ging het al een stuk soepeler. Nu met deze vierde editie zijn we echte pro's geworden met met organiseren. We geven leerlingen graag de ruimte te werken aan hun innovatieve ict-projecten.
 
 Dit jaar is het thema 'story of an idea'.
 
