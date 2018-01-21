@@ -3,7 +3,7 @@
 Aanmelden voor NerdNight is verplicht. Je ontvangt bij je aanmelding een toegangsbandje. Voor de examenklassen is er een verplichte aanwezigheid. Voor de niet-examenklassen is de aanwezigheid gewenst.
 Hieronder kun je je aanmelden. Zie je geen formulier? Log eerst in op je @Pierson account.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdiD70KaLWSEzUBVWs2q6G3y09rRAwkOLrCZfz5ukQVOhXYBA/viewform?embedded=true" width="760" height="1000" frameborder="0" marginheight="0" marginwidth="0">Hier komt dat formulier.</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdiD70KaLWSEzUBVWs2q6G3y09rRAwkOLrCZfz5ukQVOhXYBA/viewform?embedded=true" width="800" height="1200" frameborder="0" marginheight="0" marginwidth="0">Hier komt dat formulier.</iframe>
 
 
 
